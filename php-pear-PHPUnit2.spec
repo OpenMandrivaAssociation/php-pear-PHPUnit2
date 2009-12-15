@@ -4,8 +4,8 @@
 %define		_requires_exceptions pear(%s.php)
 
 Name:		php-pear-%{upstream_name}
-Version:	2.2.1
-Release:	%mkrel 6
+Version:	2.3.6
+Release:	%mkrel 1
 Summary:	Regression testing framework for unit tests
 License:	PHP License
 Group:		Development/PHP
