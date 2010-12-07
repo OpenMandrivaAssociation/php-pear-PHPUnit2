@@ -5,7 +5,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	2.3.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Regression testing framework for unit tests
 License:	PHP License
 Group:		Development/PHP
