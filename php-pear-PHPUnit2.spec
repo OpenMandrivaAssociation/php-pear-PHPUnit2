@@ -9,7 +9,7 @@ Summary:	Regression testing framework for unit tests
 
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/PHPUnit2/
+URL:		https://pear.php.net/package/PHPUnit2/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
